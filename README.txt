@@ -1,7 +1,6 @@
-
                ############################## OBJETIVO ####################################
 
-1 - O projeto e uma plataforma que abrange o cadastro de Startups e pequenas empresas, iniciadas nas universidades;
+1 - O projeto é uma plataforma que abrange o cadastro de Startups e pequenas empresas, iniciadas nas universidades;
 2 - O projeto chama-se STARTOOL;
 
                 ################################ AVISO #####################################
@@ -15,25 +14,25 @@
 
 1 - Clique botão direito do mouse na pasta "apache-tomcat-9.0.45"
 2 - Recorte a pagina
-3 - Cole na area de trabalho
-4 - Abra o terminal e acesse a area de trabalho;
-5 - digite o codigo no CMD: cd apache-tomcat-9.0.45 && cd bin
-6 - Verifique se esta na pagina bin
-7 - Digite esse codigo no CMD: start startup.bat
-8 - O servidor TomCat ira inicar na porta 8080
+3 - Cole na área de trabalho
+4 - Abra o terminal e acesse a área de trabalho;
+5 - Digite o código no CMD: cd apache-tomcat-9.0.45 && cd bin
+6 - Verifique se está na página bin
+7 - Digite esse código no CMD: start startup.bat
+8 - O servidor TomCat ira iniciar na porta 8080
 9 - Abra o navegador e cole esse link na URL: http://localhost:8080/startool/entrada?acao=ListarStartups
-10 - aproveite a STARTOOL
+10 - Aproveite a STARTOOL
 
 Acessos:
 1 - Caso queira criar uma nova conta, vai em cadastrar na plataforma STARTOOL;
 2 - Contas existentes
-    Usuario Erik Santos;
+    Usuário Erik Santos;
     - Login: 123
     - Senha: 123
-    (Conta vinculada com algunas Startups);
-###########################
-    Usuario Sarah;
-    - Login:F214HB1
+    (Conta vinculada com algumas Startups);
+     W###########################
+    Usuário Sarah;
+    - Login: F214HB1
     - Senha: 123
     (Conta Vinculada com nenhuma Startup);
 
@@ -41,4 +40,4 @@ Acessos:
 
 1 - Desenvolver um BD para a STARTOOL, utilizando JPA/HIBERNATE;
 2 - Ajustar os bugs Mobile;
-3 - Atualizar o Codigo para Spring MVC Framework;
+3 - Atualizar o Código para Spring MVC Framework;
